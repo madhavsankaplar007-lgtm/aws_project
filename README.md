@@ -5,7 +5,7 @@ VPC stands for Virtual Private Cloud. It is an isolated network in the cloud whe
 
 ---
 
-## Components of VPC
+## Components of VPc
 
 ### 1. Internet Gateway (IGW)
 An Internet Gateway helps traffic flow in and out of the VPC. It is connected directly to the VPC and acts like a **main gate** — allowing resources inside the VPC to communicate with the internet.
