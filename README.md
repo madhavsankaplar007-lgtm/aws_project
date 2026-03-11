@@ -63,5 +63,7 @@ Public Subnet
 - **Bastion Host** = secure gateway to access private resources
 - **NAT Gateway + Elastic IP** = allows private resources to initiate outbound internet traffic safely
 
+- 
+
 ---
 *Documented by Madhav S R | AWS Cloud Learner*
